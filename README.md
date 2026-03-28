@@ -66,7 +66,7 @@ The Power BI dashboard includes the following visualizations:
 | File | Description |
 |-----|-------------|
 | flipkart_sales_dashboard.pbix | Power BI dashboard file |
-| amazon_sales_dataset.xlsx | Dataset used for analysis |
+| flipkart_sales_dataset.xlsx | Dataset used for analysis |
 
 ---
 
