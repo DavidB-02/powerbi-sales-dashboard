@@ -1,7 +1,7 @@
-# Amazon Sales Dashboard (Power BI Project)
+# Flipkart Sales Dashboard (Power BI Project)
 
 ## Project Overview
-This project presents an interactive Power BI dashboard that analyzes Amazon sales data. 
+This project presents an interactive Power BI dashboard that analyzes Flipkart sales data. 
 The dashboard provides insights into sales performance, product categories, regional sales, 
 and order trends using data visualization techniques.
 
@@ -22,7 +22,7 @@ using Power BI.
 
 ## Dataset Description
 
-The dataset contains Amazon order information including:
+The dataset contains Flipkart order information including:
 
 - Order ID
 - Order Date
@@ -65,7 +65,7 @@ The Power BI dashboard includes the following visualizations:
 
 | File | Description |
 |-----|-------------|
-| amazon_sales_dashboard.pbix | Power BI dashboard file |
+| flipkart_sales_dashboard.pbix | Power BI dashboard file |
 | amazon_sales_dataset.xlsx | Dataset used for analysis |
 
 ---
